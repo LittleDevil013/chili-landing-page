@@ -3,12 +3,6 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.containers{
-    display: flex;
-    flex-direction: column;
-   
-    
-}
 
 .header{
     display: flex;
@@ -60,6 +54,9 @@ a {
     
     background-color: #72635F;
     border-radius: 5px;
+    width: 80px;
+    height: 45px;
+    border: 1px solid #811C06;
 
 }
 #btnlink {
@@ -116,4 +113,38 @@ p {
 }
 .smarttext {
     margin: 125px 125px;
+}
+
+.modal {
+    background: #72635F;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    gap: 16px;
+    padding: 16px;
+    width: 700px;
+
+}
+.modaltext {
+    font-size: 18px ;
+    color: #F6A568;
+}
+
+.header2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: #ED7E2C;
+
+}
+
+.container-four {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 45px;
+    background: black;
 }
