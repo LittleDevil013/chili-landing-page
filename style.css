@@ -68,3 +68,32 @@ p {
     color: #72635F;
     
 }
+
+.infoimg {
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+}
+
+.title {
+    font-size: 36px;
+    color: #811C06;
+    font-weight: 900;
+    margin-bottom: 32px;
+}
+
+.container-two {
+    text-align: center;
+    background-color: #72635F;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.text {
+    max-width: 200px;
+    color: #ED7E2C;
+}
