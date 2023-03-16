@@ -51,6 +51,7 @@ a {
     background: black;
     padding: 35px;
     align-items: center;
+    height: 350px;
 }
 
 #img1{
@@ -96,6 +97,7 @@ p {
 .container-two {
     text-align: center;
     background-color: #72635F;
+    height: 350px;
 }
 
 .info-container {
@@ -117,6 +119,7 @@ p {
     font-size: 32px;
     color: #F6A568 ;
     background-color: #9D9392;
+    height: 350px;
     
 }
 .smarttext {
@@ -155,4 +158,5 @@ p {
     justify-content: center;
     padding: 45px;
     background: black;
+    height: 350px;
 }
